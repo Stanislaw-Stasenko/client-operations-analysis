@@ -6,7 +6,7 @@ __pycache__/
 *.pyc
 
 # Данные
-data/*.csv
+data/
 
 # Системные
 .DS_Store
