@@ -2,7 +2,7 @@
  
 **Инструменты:** `pandas`, `seaborn`, `matplotlib`, `Jupyter Notebook`  
 
-📓 [Ноутбук с анализем](notebooks/analysis.ipynb)  
+📓 [Ноутбук с анализом](notebooks/analysis.ipynb)  
 📊 [Папка с графиками](images/)
 
 ## Бизнес-задача
